@@ -16,7 +16,7 @@ Welcome to my collection of TryHackMe rooms — walkthroughs, notes, and hacks a
 
 | Room Name | Type | Writeup |
 |----------|------|---------|
-| `Mr. Robot` | Linux, Web Exploitation | [Read Here](link) |
+| `GoBuster` | Linux, Web Exploitation | [Read Here](link) |
 | `Blue` | Windows, SMB | [Read Here](link) |
 | `Ignite` | Web | [Read Here](link) |
 
