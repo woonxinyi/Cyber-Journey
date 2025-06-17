@@ -16,7 +16,7 @@ Welcome to my collection of TryHackMe rooms — walkthroughs, notes, and hacks a
 
 | Room Name | Type | Writeup |
 |----------|------|---------|
-| `GoBuster` | Linux, Web Exploitation | [Read Here](link) |
+| `GoBuster` | Linux, Web Exploitation | [Read Here](https://github.com/woonxinyi/Cyber-Journey/tree/cf88432951ba90f736c2fdb2b196e50feafdb83c/Gobuster) |
 | `Blue` | Windows, SMB | [Read Here](link) |
 | `Ignite` | Web | [Read Here](link) |
 
