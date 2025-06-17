@@ -16,9 +16,8 @@ Welcome to my collection of TryHackMe rooms — walkthroughs, notes, and hacks a
 
 | Room Name | Type | Writeup |
 |----------|------|---------|
-| `GoBuster` | Linux, Web Exploitation | [Read Here](Gobuster/README.md) |
-| `Blue` | Windows, SMB | [Read Here](link) |
-| `Ignite` | Web | [Read Here](link) |
+| `GoBuster` | Gobuster | [Read Here](Gobuster/README.md) |
+
 
 ## 🧰 Tools Used
 - Nmap, Gobuster, Burp Suite, Metasploit, etc.
