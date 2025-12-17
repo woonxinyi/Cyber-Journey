@@ -13,20 +13,5 @@ Welcome to my collection of my experience, this is where how I start steps by st
 - 💻 [CTFs & Challenges](#) Coming soon
 
 ---
-
-## 📓 Completed Rooms
-
-| Room Name | Type | Writeup |
-|----------|------|---------|
-| `GoBuster` | Gobuster | [Read Here](Gobuster/README.md) |
-
-
-## 🧰 Tools Used
-- Nmap, Gobuster, Burp Suite, Metasploit, etc.
-
-## 🛠️ Coming Soon
-- Ongoing rooms and new pwnage logs.
-
----
 > “Hack the planet... or die trying.” 😈🔥
 
