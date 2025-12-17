@@ -6,7 +6,7 @@ Welcome to my collection of my experience, this is where how I start steps by st
 2. TryHackMe rooms — walkthroughs, notes, and hacks as I level up in the cyber arena 👾💣
 
 ## 📁 Categories
-- 🧠 [Beginner Rooms](/Beginner Room/README.md)
+- 🧠 [Beginner Rooms](README.md)
 - 💥 [Offensive Security](#) Comming soon
 - 🛡️ [Blue Team & SOC](#) Comming soon
 - 📚 [Learning & Fundamentals](#)
