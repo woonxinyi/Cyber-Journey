@@ -1,9 +1,31 @@
-# 🔐 Cyber-Journey
-Documenting my cybersecurity learning journey - from fundamentals to field experience.
+<!-- Intro -->
 
-Welcome to my collection of my experience, this is where how I start steps by steps: 
-1. ISC2 Certified in Cybersecurity (CC)
-2. TryHackMe rooms — walkthroughs, notes, and hacks as I level up in the cyber arena 👾💣
+<div align="center">
+
+# ⚗️ Chem Engineer → 🛡️🕵️ Xin Yi | Cyber Journey
+
+> 👾 *Chemical Engineer turned Cybersecurity Learner.*
+> Documenting my cybersecurity learning journey from fundamentals to field experience.
+
+</div>
+
+<!-- Intro -->
+
+
+## 🗺️ Journey Timeline
+```
+[2021] ──✦── 🎓 B.Eng Chemical Engineering Graduate
+[2022] ──✦── 💼🟢Internal Auditor at PETRONAS 
+[2023] ──✦── 💡Discovered Cybersecurity
+              └─ Started ISC² CC 📝
+[2024] ──✦── Started TryHackMe
+[2025] ──✦── Secured Cyber Risk Analyst job at Central Bank of Malaysia
+                └─ GIAC GFACT 📝
+                └─ GIAC GSEC (In Progress) 📝
+[2026] ──✦── Information Security Specialist at British Petroleum 🎯
+```
+
+---
 
 ## 📁 Categories
 - 🧠 [Beginner Rooms](https://github.com/woonxinyi/Cyber-Journey/blob/d1001cfc21ecceb49f492bab3773bd3b2fad90c9/README.md)
@@ -11,7 +33,11 @@ Welcome to my collection of my experience, this is where how I start steps by st
 - 🛡️ [Blue Team & SOC](#) Comming soon
 - 📚 [Learning & Fundamentals](#)
 - 💻 [CTFs & Challenges](#) Coming soon
+- 
+## ☁️ TryHackMe
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/xinyiwoon98.png)](https://tryhackme.com/p/xinyiwoon98)
 
+![Visitors](https://komarev.com/ghpvc/?username=woonxinyi&color=ff6eb4&style=pixel)
 ---
 > “Hack the planet... or die trying.” 😈🔥
 
