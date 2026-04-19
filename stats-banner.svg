@@ -1,0 +1,130 @@
+<svg width="860" height="120" viewBox="0 0 860 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P');
+      .pixel { font-family: 'Press Start 2P', 'Courier New', monospace; }
+
+      /* Box 1 - pink */
+      @keyframes border1 {
+        0%,100% { stroke: #ff6eb4; }
+        50% { stroke: #ffb3d9; }
+      }
+      @keyframes num1 {
+        0%,100% { fill: #ff6eb4; }
+        50% { fill: #ffb3d9; }
+      }
+      .box1-border { animation: border1 2s ease-in-out infinite; }
+      .box1-num { animation: num1 2s ease-in-out infinite; }
+
+      /* Box 2 - cyan */
+      @keyframes border2 {
+        0%,100% { stroke: #00e5ff; }
+        50% { stroke: #99f5ff; }
+      }
+      @keyframes num2 {
+        0%,100% { fill: #00e5ff; }
+        50% { fill: #99f5ff; }
+      }
+      .box2-border { animation: border2 2s ease-in-out infinite; animation-delay: 0.5s; }
+      .box2-num { animation: num2 2s ease-in-out infinite; animation-delay: 0.5s; }
+
+      /* Box 3 - amber */
+      @keyframes border3 {
+        0%,100% { stroke: #ffcc00; }
+        50% { stroke: #ffe680; }
+      }
+      @keyframes num3 {
+        0%,100% { fill: #ffcc00; }
+        50% { fill: #ffe680; }
+      }
+      .box3-border { animation: border3 2s ease-in-out infinite; animation-delay: 1s; }
+      .box3-num { animation: num3 2s ease-in-out infinite; animation-delay: 1s; }
+
+      /* Box 4 - purple */
+      @keyframes border4 {
+        0%,100% { stroke: #b36aff; }
+        50% { stroke: #d9b3ff; }
+      }
+      @keyframes num4 {
+        0%,100% { fill: #b36aff; }
+        50% { fill: #d9b3ff; }
+      }
+      .box4-border { animation: border4 2s ease-in-out infinite; animation-delay: 1.5s; }
+      .box4-num { animation: num4 2s ease-in-out infinite; animation-delay: 1.5s; }
+
+      /* pixel corner decorations pulse */
+      @keyframes corner-pulse {
+        0%,100% { opacity: 1; }
+        50% { opacity: 0.3; }
+      }
+      .c1 { animation: corner-pulse 2s ease-in-out infinite; }
+      .c2 { animation: corner-pulse 2s ease-in-out infinite; animation-delay: 0.5s; }
+      .c3 { animation: corner-pulse 2s ease-in-out infinite; animation-delay: 1s; }
+      .c4 { animation: corner-pulse 2s ease-in-out infinite; animation-delay: 1.5s; }
+    </style>
+  </defs>
+
+  <!-- Box 1: THM Rooms (pink) -->
+  <!-- outer glow rect -->
+  <rect x="10" y="10" width="195" height="100" rx="4" fill="#ff6eb408" stroke="#ff6eb433" stroke-width="1"/>
+  <!-- main border (animated) -->
+  <rect x="14" y="14" width="187" height="92" rx="3" fill="#0d0d0d" class="box1-border" stroke-width="2"/>
+  <!-- pixel corner dots -->
+  <rect x="14" y="14" width="4" height="4" fill="#ff6eb4" class="c1"/>
+  <rect x="197" y="14" width="4" height="4" fill="#ff6eb4" class="c1"/>
+  <rect x="14" y="102" width="4" height="4" fill="#ff6eb4" class="c1"/>
+  <rect x="197" y="102" width="4" height="4" fill="#ff6eb4" class="c1"/>
+  <!-- top pixel stripe -->
+  <rect x="18" y="14" width="8" height="3" fill="#ff6eb4" opacity="0.6"/>
+  <rect x="30" y="14" width="8" height="3" fill="#ff6eb4" opacity="0.4"/>
+  <rect x="42" y="14" width="8" height="3" fill="#ff6eb4" opacity="0.6"/>
+  <!-- emoji -->
+  <text x="107" y="48" text-anchor="middle" font-size="22">🔴</text>
+  <!-- big number -->
+  <text x="107" y="78" text-anchor="middle" font-size="20" font-weight="bold" class="pixel box1-num">47</text>
+  <!-- label -->
+  <text x="107" y="96" text-anchor="middle" font-size="7" fill="#ff6eb499" class="pixel">THM ROOMS</text>
+
+  <!-- Box 2: Certs (cyan) -->
+  <rect x="220" y="10" width="195" height="100" rx="4" fill="#00e5ff08" stroke="#00e5ff33" stroke-width="1"/>
+  <rect x="224" y="14" width="187" height="92" rx="3" fill="#0d0d0d" class="box2-border" stroke-width="2"/>
+  <rect x="224" y="14" width="4" height="4" fill="#00e5ff" class="c2"/>
+  <rect x="407" y="14" width="4" height="4" fill="#00e5ff" class="c2"/>
+  <rect x="224" y="102" width="4" height="4" fill="#00e5ff" class="c2"/>
+  <rect x="407" y="102" width="4" height="4" fill="#00e5ff" class="c2"/>
+  <rect x="228" y="14" width="8" height="3" fill="#00e5ff" opacity="0.6"/>
+  <rect x="240" y="14" width="8" height="3" fill="#00e5ff" opacity="0.4"/>
+  <rect x="252" y="14" width="8" height="3" fill="#00e5ff" opacity="0.6"/>
+  <text x="317" y="48" text-anchor="middle" font-size="22">📜</text>
+  <text x="317" y="78" text-anchor="middle" font-size="20" font-weight="bold" class="pixel box2-num">3</text>
+  <text x="317" y="96" text-anchor="middle" font-size="7" fill="#00e5ff99" class="pixel">CERTS EARNED</text>
+
+  <!-- Box 3: Days (amber) -->
+  <rect x="430" y="10" width="195" height="100" rx="4" fill="#ffcc0008" stroke="#ffcc0033" stroke-width="1"/>
+  <rect x="434" y="14" width="187" height="92" rx="3" fill="#0d0d0d" class="box3-border" stroke-width="2"/>
+  <rect x="434" y="14" width="4" height="4" fill="#ffcc00" class="c3"/>
+  <rect x="617" y="14" width="4" height="4" fill="#ffcc00" class="c3"/>
+  <rect x="434" y="102" width="4" height="4" fill="#ffcc00" class="c3"/>
+  <rect x="617" y="102" width="4" height="4" fill="#ffcc00" class="c3"/>
+  <rect x="438" y="14" width="8" height="3" fill="#ffcc00" opacity="0.6"/>
+  <rect x="450" y="14" width="8" height="3" fill="#ffcc00" opacity="0.4"/>
+  <rect x="462" y="14" width="8" height="3" fill="#ffcc00" opacity="0.6"/>
+  <text x="527" y="48" text-anchor="middle" font-size="22">⚡</text>
+  <text x="527" y="78" text-anchor="middle" font-size="20" font-weight="bold" class="pixel box3-num">312</text>
+  <text x="527" y="96" text-anchor="middle" font-size="7" fill="#ffcc0099" class="pixel">DAYS GRINDING</text>
+
+  <!-- Box 4: CTF Flags (purple) -->
+  <rect x="640" y="10" width="210" height="100" rx="4" fill="#b36aff08" stroke="#b36aff33" stroke-width="1"/>
+  <rect x="644" y="14" width="202" height="92" rx="3" fill="#0d0d0d" class="box4-border" stroke-width="2"/>
+  <rect x="644" y="14" width="4" height="4" fill="#b36aff" class="c4"/>
+  <rect x="842" y="14" width="4" height="4" fill="#b36aff" class="c4"/>
+  <rect x="644" y="102" width="4" height="4" fill="#b36aff" class="c4"/>
+  <rect x="842" y="102" width="4" height="4" fill="#b36aff" class="c4"/>
+  <rect x="648" y="14" width="8" height="3" fill="#b36aff" opacity="0.6"/>
+  <rect x="660" y="14" width="8" height="3" fill="#b36aff" opacity="0.4"/>
+  <rect x="672" y="14" width="8" height="3" fill="#b36aff" opacity="0.6"/>
+  <text x="745" y="48" text-anchor="middle" font-size="22">🚩</text>
+  <text x="745" y="78" text-anchor="middle" font-size="20" font-weight="bold" class="pixel box4-num">18</text>
+  <text x="745" y="96" text-anchor="middle" font-size="7" fill="#b36aff99" class="pixel">CTF FLAGS</text>
+
+</svg>
