@@ -48,7 +48,7 @@
 |---|------------|--------|--------|--------|
 | 🏆 | Google Cybersecurity | Coursera | 🔄 In Progress | -|
 | 🔐 | ISC² Certified in Cybersecurity | ISC² | ✅ Done | [Link](https://www.credly.com/badges/160d6559-fd7a-4ab5-bf3a-fbadd1fd1066/linked_in_profile) |
-| 🔐 | GIAC Foundational Cybersecurity Technologies (GFACT) | GIAC | ✅ Done | [Link](https://www.credly.com/badges/160d6559-fd7a-4ab5-bf3a-fbadd1fd1066/linked_in_profile](https://www.credly.com/badges/b7465a90-0360-401a-be93-739091df08e3/public_url)) |
+| 🔐 | GIAC Foundational Cybersecurity Technologies (GFACT) | GIAC | ✅ Done | [Link](https://www.credly.com/badges/b7465a90-0360-401a-be93-739091df08e3/public_url) |
 | ⚡ | CompTIA Security+ | CompTIA | 🔄 In Progress | — |
 | 🌟 | [Next Cert] | — | 🔒 Locked | — |
 
