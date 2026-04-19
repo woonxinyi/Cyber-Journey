@@ -11,13 +11,7 @@
 
 <!-- Intro -->
 
-<div align="center">
-
-| 🩷 THM Rooms | 🩵 Certs Earned | 💛 Days Grinding | 💜 CTF Flags |
-|:---:|:---:|:---:|:---:|
-| **47** | **3** | **312** | **18** |
-
-</div>
+![stats](./stats-banner.svg)
 
 ---
 
