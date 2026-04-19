@@ -11,6 +11,15 @@
 
 <!-- Intro -->
 
+<div align="center">
+
+| 🩷 THM Rooms | 🩵 Certs Earned | 💛 Days Grinding | 💜 CTF Flags |
+|:---:|:---:|:---:|:---:|
+| **47** | **3** | **312** | **18** |
+
+</div>
+
+---
 
 ## 🗺️ Journey Timeline
 ```
@@ -38,6 +47,18 @@
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/xinyiwoon98.png)](https://tryhackme.com/p/xinyiwoon98)
 
 ![Visitors](https://komarev.com/ghpvc/?username=woonxinyi&color=ff6eb4&style=pixel)
----
-> “Hack the planet... or die trying.” 😈🔥
 
+## 📜 Certifications
+
+| ✨ | Certificate | Issuer | Status | Verify |
+|---|------------|--------|--------|--------|
+| 🏆 | Google Cybersecurity | Coursera | 🔄 In Progress | -|
+| 🔐 | ISC² CC | ISC² | ✅ Done | [Link](#) |
+| ⚡ | CompTIA Security+ | CompTIA | 🔄 In Progress | — |
+| 🌟 | [Next Cert] | — | 🔒 Locked | — |
+
+---
+
+<div align="center">
+“Hack the planet... or die trying.” 😈🔥
+</div>
